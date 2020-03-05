@@ -42,7 +42,7 @@ pip3 install dvt
 Finally, you will also need to get the data and code for the workshop. You can
 grab those from here:
 
-- [dvt-tutorial.zip]()
+- [dvt-tutorial.zip](https://distantviewing.org/dvt-tutorial.zip)
 
 Unzip the file, start a Jupyter Notebook from the Anaconda prompt, and open the
 first notebook to begin!
