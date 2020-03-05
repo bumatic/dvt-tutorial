@@ -55,20 +55,20 @@ For more information, see our recent papers, linked below:
 ---
 
 Arnold, Taylor, and Lauren Tilton. "Distant Viewing Toolkit: A Python Package for the Analysis of Visual Culture",
-*Journal of Open Source Software*, 5(45), 1800, [link](https://joss.theoj.org/papers/10.21105/joss.01800).
+*Journal of Open Source Software*, Vol. 5, Issue 45, 2000. [link](https://joss.theoj.org/papers/10.21105/joss.01800).
 
-<img src="site/dsh.png"></img>
+<a href="https://raw.githubusercontent.com/distant-viewing/dvt-tutorial/master/site/joss.pdf"><img src="site/joss.png"></img></a>
 
 ---
 
 Arnold, Taylor, and Lauren Tilton. "Visual Style in Two Network-Era Sitcoms"
 *Cultural Analytics*, 2019. [link](https://doi.org/10.1093/llc/fqz013)
 
----
+<a href="https://raw.githubusercontent.com/distant-viewing/dvt-tutorial/master/site/ca.pdf"><img src="site/ca.png"></img></a>
 
-<img src="site/ca.png"></img>
+---
 
 Arnold, Taylor, and Lauren Tilton. "Distant viewing: analyzing large visual corpora"
 *Digital Scholarship in the Humanities*, Vol. 34, Supplement 1, 2019. [link](https://doi.org/10.1093/llc/fqz013)
 
-<img src="site/dsh.png"></img>
+<a href="https://raw.githubusercontent.com/distant-viewing/dvt-tutorial/master/site/dsh.pdf"><img src="site/dsh.png"></img></a>
