@@ -42,21 +42,33 @@ pip3 install dvt
 Finally, you will also need to get the data and code for the workshop. You can
 grab those from here:
 
-- [dvt-workshop.zip]()
+- [dvt-tutorial.zip]()
 
 Unzip the file, start a Jupyter Notebook from the Anaconda prompt, and open the
 first notebook to begin!
 
 ## References
 
-During the workshop, we will construct a bibliography of references for both
-technical and conceptual topics that arise.
+This workshop is guided by our work at the [Distant Viewing Lab](https://distantviewing.org).
+For more information, see our recent papers, linked below:
 
-- Arnold, Taylor, and Lauren Tilton. "Distant Viewing Toolkit: A Python Package for the Analysis of Visual Culture",
+---
+
+Arnold, Taylor, and Lauren Tilton. "Distant Viewing Toolkit: A Python Package for the Analysis of Visual Culture",
 *Journal of Open Source Software*, 5(45), 1800, [link](https://joss.theoj.org/papers/10.21105/joss.01800).
-- Arnold, Taylor, and Lauren Tilton. "Distant viewing: analyzing large visual corpora"
-*Digital Scholarship in the Humanities*, 2019. [link](https://doi.org/10.1093/digitalsh/fqz013)
-- Arnold, Taylor, and Lauren Tilton. "Distant viewing: analyzing large visual corpora"
-*Digital Scholarship in the Humanities*, 2019. [link](https://doi.org/10.1093/digitalsh/fqz013)
-- Wevers, Melvin, and Thomas Smits. "The visual digital turn: Using neural networks to study historical images"
-*Digital Scholarship in the Humanities*. [link](https://doi.org/10.1093/llc/fqy085)
+
+<img src="site/dsh.png"></img>
+
+---
+
+Arnold, Taylor, and Lauren Tilton. "Visual Style in Two Network-Era Sitcoms"
+*Cultural Analytics*, 2019. [link](https://doi.org/10.1093/llc/fqz013)
+
+---
+
+<img src="site/ca.png"></img>
+
+Arnold, Taylor, and Lauren Tilton. "Distant viewing: analyzing large visual corpora"
+*Digital Scholarship in the Humanities*, Vol. 34, Supplement 1, 2019. [link](https://doi.org/10.1093/llc/fqz013)
+
+<img src="site/dsh.png"></img>
